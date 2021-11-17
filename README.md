@@ -11,6 +11,7 @@ This project uses the following technologies:
 - [Redux](https://redux.js.org/basics/usagewithreact) for state management between React components
 
 please refer to these helpful video by Lama Dev.
-[this](https://youtu.be/tlTdbc5byAs) : First Part (Design)
-[this](https://youtu.be/OML9f6LXUUs) : Second Part (Rest API)
-[this](https://youtu.be/LelifxOrzvw) : Third Part (MERN Stack)
+
+- [this](https://youtu.be/tlTdbc5byAs) : First Part (Design)
+- [this](https://youtu.be/OML9f6LXUUs) : Second Part (Rest API)
+- [this](https://youtu.be/LelifxOrzvw) : Third Part (MERN Stack)
